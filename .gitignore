@@ -5,6 +5,10 @@ __pycache__/
 
 # pycharm
 .idea/
+.db
+.log
+.target/
+.bin/
 
 # C extensions
 *.so
